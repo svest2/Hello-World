@@ -2,62 +2,7 @@
 <html>
 <head>
  <meta charset="UTF-8">
- <title>Hello Word</title>
- <style>
-   body {
-}
-
-h1 {
-  text-align: center; 
-  color: white; 
-  background-color: dodgerblue; 
-  border: 2px solid purple;
-}
-h2 {
-  text-align: center;
-}
-p { 
- text-align: center;
-}
-
-a:link {
-     color: green;
-     background-color: transparent;
-     text-decoration: none;
-}
-
-a:visited {
-      color: blue;
-      background-color: transparent;
-      text-decoration: none;
-}
-a:hover {
-      color: yellow;
-      background-color: transparent;
-      text-decoration: underline;
-}
-a:active {
-     color: red
-     background-color: transparent;
-     text-decoration: underline;
-}
-img {
-  width: 100px;
-  height: 100px;
-}
-th {
- border: 2px solid black;
-}
-table, td {
-  border: 1px solid black;
-}
-table, th, td {
-  border-collapse: collapse;
-}
-ul {
-  list-style-type:square;
-}
- </style>
+ 
 </head>
 <body>
 <header>
